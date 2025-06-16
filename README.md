@@ -1,14 +1,14 @@
-# 👨‍💻 Hi, I'm Ali Moha — Developer Engineer
+# 👨‍💻 Hi, I'm **Developer Engineer**  
 
-![Developer Banner](https://via.placeholder.com/1000x250.png?text=Developer+Profile)
+![Header](https://via.placeholder.com/1000x250.png?text=Developer+Profile)
 
 ---
 
 ## 🌟 About Me
 
-🚀 I'm a **Developer Engineer** with a Bachelor's degree in **Computer Science**.  
-🔥 My passion lies in solving problems, designing scalable systems, and developing interactive UI.  
-🎮 I love coding puzzle games and challenging myself with algorithmic problems.
+🚀 I'm a **Developer Engineer with a Bachelor's degree in Computer Science**.  
+🔥 My passion lies in designing scalable software, solving challenging problems, and developing interactive UI.  
+🎮 I love coding puzzle games and adding a bit of fun into coding.
 
 ---
 
@@ -25,16 +25,23 @@
 
 ---
 
-## 🕹 My Projects (with a twist)
+## 🕹 My Games
 
-Here are a few puzzle games I made with **Javascript** and **React**:
+Here are a few small games I coded in JavaScript:
 
-- [🎮 **Sudoku Master**](https://your-repo.example.com/sudoku) — A fully functional Sudoku game with hints and scoring.
-- [🎮 **Tic-Tac-Toe Rush**](https://your-repo.example.com/tictac) — A fast-paced, two-player puzzle game.
+- [🎮 **Snake**](https://yourUsername.github.io/snake/) — A classic snake game implemented with vanilla JS.
+- [🎮 **Tic-Tac-Toe**](https://yourUsername.github.io/tictactoe/) — A two-player game made with React.
 
 ---
 
-## 🖥 My Git Stats
+## 🐍 GitHub Snake Contribution
+
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+
+
+---
+
+## 📊 Git Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true&include_all_commits=true&count_private=true&title_color=f39c12&icon_color=f39c12)
 
@@ -50,14 +57,5 @@ Here are a few puzzle games I made with **Javascript** and **React**:
 
 ---
 
-## 🕹 A Small Challenge (Just for fun)
-
-✅ **Puzzle:**  
-How many unique paths exist from the **top left corner** to the **bottom right corner** of a 2x2 grid if you can move only **right** or **down**?
-
-*Tip: it's a classical combinatoric problem!*  
-[➡ ANSWER HERE! (https://your-repo.example.com/solution)]
-
----
-
 ![Footer](https://via.placeholder.com/1000x100.png?text=Code+with+Passion)
+

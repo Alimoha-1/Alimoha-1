@@ -10,7 +10,7 @@
 
 # 👨‍💻 Hi, I'm **Developer Engineer**  
 
-![Header]([https://via.placeholder.com/1000x250.png?text=Developer+Profile](https://www.google.com/imgres?q=programmer%20pictures&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F002%2F214%2F644%2Fnon_2x%2Fweb-designer-and-programmer-free-vector.jpg&imgrefurl=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fcomputer-programmer&docid=gln5Fth18WtTUM&tbnid=xuBLBvbjnHnmfM&vet=12ahUKEwipuY6UqY-OAxXc2wIHHZphIuwQM3oECGUQAA..i&w=1633&h=980&hcb=2&ved=2ahUKEwipuY6UqY-OAxXc2wIHHZphIuwQM3oECGUQAA))
+![Header](https://static.vecteezy.com/system/resources/previews/002/214/644/non_2x/web-designer-and-programmer-free-vector.jpg)
 
 ---
 
